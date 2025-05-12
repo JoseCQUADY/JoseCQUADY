@@ -5,11 +5,9 @@
 </p>
                                                                 
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
-
+- 🔭 I'm currently in my final year of a Bachelor's degree in Software Engineering. 
+- 🧠 I'm currently collaborating with the UADY Job Board team, contributing to data analysis and generating improvement proposals for the university's official job portal.
+- 🌱 I’m currently learning **Microservices, Observability & Monitoring of Distributed System, Micronaut and Spring Cloud.**
 - 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
 
 &emsp;
