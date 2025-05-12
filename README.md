@@ -111,9 +111,10 @@
 &emsp;
 
 ## 📈 My GitHub Activity
-
-### 💻 Profile Stats
-![JoseCQUADY's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseCQUADY&theme=dracula&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseCQUADY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=bear&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoseCQUADY&locale=en&mode=daily&theme=bear&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 
 
