@@ -112,7 +112,7 @@
 
 &emsp;
 
-## 📈 My GitHub Stats and Activity
+## 📈 My GitHub Activity
 
 ### 💻 Profile Stats
 ![JoseCQUADY's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseCQUADY&theme=dracula&hide_border=true)
