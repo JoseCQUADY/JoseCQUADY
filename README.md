@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Chi Quintal</h1>
 <h3 align="left">Hi 👋, Software Engineer Student. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
-&emsp;
+
 &emsp;
 
 - 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
