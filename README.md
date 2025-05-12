@@ -119,9 +119,6 @@
 ### 💻 Profile Stats
 
 ![JoseCQUADY's Stats](https://github-readme-stats.vercel.app/api?username=JoseCQUADY&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
-### 🔥 Streak Stats
-
 ![JoseCQUADY's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseCQUADY&theme=dracula&hide_border=true)
 
 ### 📊 Contribution Stats
