@@ -125,6 +125,4 @@
 
 <img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-------
-Credit: [Berkeli](https://github.com/Berkeli)
-Last Edited on: 02/01/2023
+
