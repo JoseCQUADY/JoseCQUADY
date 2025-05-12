@@ -13,8 +13,6 @@
 &emsp;
 
 ## Me around the web:
--------------------
-
 
 &emsp;
 <a href="https://www.linkedin.com/in/berkeli/">
