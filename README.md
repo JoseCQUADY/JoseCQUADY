@@ -119,8 +119,5 @@
 ![JoseCQUADY's Stats](https://github-readme-stats.vercel.app/api?username=JoseCQUADY&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![JoseCQUADY's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseCQUADY&theme=dracula&hide_border=true)
 
-### 📊 Contribution Stats
-
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
