@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Chi Quintal</h1>
-<h2 align="center">💻Full-stack developer in training, exploring a wide range of technologies beyond just development"</h2>
+<h2 align="center">Full-stack developer in training, exploring a wide range of technologies beyond just development"</h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Microservices, Observability & Monitoring of Distributed System, Micronaut and Spring Cloud.**
 
 &emsp;
-## Me around the web
+## 💻 Me around the web
 
 &emsp;
 <a href="https://www.linkedin.com/in/berkeli/">
