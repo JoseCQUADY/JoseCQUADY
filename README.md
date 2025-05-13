@@ -9,8 +9,8 @@
 - 🧠 I'm currently collaborating with the UADY Job Board team, contributing to data analysis and generating improvement proposals for the university's official job portal.
 - 🌱 I’m currently learning **Microservices, Observability & Monitoring of Distributed System, Micronaut and Spring Cloud.**
 
-
-## Me around the web:
+&emsp;
+## Me around the web
 
 &emsp;
 <a href="https://www.linkedin.com/in/berkeli/">
