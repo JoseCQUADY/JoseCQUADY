@@ -40,7 +40,7 @@
 
 &emsp;
 
-## 🛠️ My Skills
+<h2 align="center">🛠️ My Skills</h2>
 
 ### Programming languages:
 <div align="center">
